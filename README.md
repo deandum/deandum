@@ -4,7 +4,7 @@ Hi, I am Dean, a full-stack software engineer who specializes in designing, impl
 
 # GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deandum&show_icons=true&theme=dracula&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deandum&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Useful Links
 - [Check out my website](https://deandumitru.com)
