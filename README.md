@@ -8,5 +8,5 @@ Hi, I am Dean, a full-stack software engineer who specializes in designing, impl
 
 # Useful Links
 - [Check out my website](https://deandumitru.com)
-- [Buy me a *ko-fi*](ko-fi.com/deandumitru)
+- [Buy me a *ko-fi*](https://ko-fi.com/deandumitru)
 - [Interested in FiveM? Check out the QBCore Framework](https://github.com/qbcore-framework)
